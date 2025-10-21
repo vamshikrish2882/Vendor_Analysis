@@ -83,9 +83,9 @@ python get_vendor_summary.py
 
 ## 👤 Author
 **Vamshikrishna Pandilla**  
-*M.S. in Engineering Management, University of Maryland, Baltimore County*  
-📧 Email: [your-email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/vamshikrishna-pandilla) | [GitHub](https://github.com/<your-username>)
+*M.S. Data Science, University of Maryland, Baltimore County*  
+📧 Email: pandirlavamshikrishna602@gmail.com 
+🔗 [LinkedIn](https://linkedin.com/in/vamshikrishna-pandilla)
 
 ---
 
