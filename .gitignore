@@ -1,0 +1,29 @@
+# Data & outputs
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.parquet
+*.zip
+*.pkl
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large assets
+*.pptx
+*.pdf
